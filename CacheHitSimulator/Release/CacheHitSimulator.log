@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\82104\source\repos\CacheHitSimulator\main.cpp(49,12): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned long'입니다.
+C:\Users\82104\source\repos\CacheHitSimulator\main.cpp(50,12): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned long'입니다.
+C:\Users\82104\source\repos\CacheHitSimulator\main.cpp(51,12): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned long'입니다.
+C:\Users\82104\source\repos\CacheHitSimulator\main.cpp(52,12): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned long'입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  CacheHitSimulator.vcxproj -> C:\Users\82104\source\repos\CacheHitSimulator\Release\CacheHitSimulator.exe
