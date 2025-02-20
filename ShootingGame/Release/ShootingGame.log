@@ -1,0 +1,15 @@
+﻿  Action.cpp
+  Console.cpp
+  Draw.cpp
+C:\Users\82104\source\repos\ShootingGame\Draw.cpp(115,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82104\source\repos\ShootingGame\Draw.cpp(123,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82104\source\repos\ShootingGame\Draw.cpp(138,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Initial.cpp
+  main.cpp
+  Update.cpp
+  코드를 생성하고 있습니다.
+  34 of 38 functions (89.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ShootingGame.vcxproj -> C:\Users\82104\source\repos\ShootingGame\Release\ShootingGame.exe
