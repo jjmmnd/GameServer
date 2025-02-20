@@ -1,0 +1,10 @@
+{
+// cnf example
+
+	Version			= 147
+	ServerID		= 8.8
+	ServerBindIP		= "192.168.0.29"
+	ServerBindPort		= 50001
+	WorkerThread		= 3
+	MaxUser		= 300
+}
