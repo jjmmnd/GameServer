@@ -1,0 +1,8 @@
+﻿  AsyncSelect.cpp
+C:\Users\82104\source\repos\AsyncSelect\AsyncSelect.cpp(107,40): warning C4312: '형식 캐스트': 'int'에서 더 큰 'TCHAR *'(으)로의 변환입니다.
+  RingBuffer.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  AsyncSelect.vcxproj -> C:\Users\82104\source\repos\AsyncSelect\x64\Release\AsyncSelect.exe
