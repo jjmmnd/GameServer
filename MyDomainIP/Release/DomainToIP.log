@@ -1,0 +1,7 @@
+﻿  DomainToIP.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\82104\source\repos\DomainToIP\DomainToIP.cpp(29): warning C4715: 'DomainToIP': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  코드를 생성했습니다.
+  DomainToIP.vcxproj -> C:\Users\82104\source\repos\DomainToIP\Release\DomainToIP.exe
