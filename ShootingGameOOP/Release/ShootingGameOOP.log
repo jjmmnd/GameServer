@@ -1,0 +1,23 @@
+﻿  BaseObject.cpp
+  Bullet.cpp
+  Enemy.cpp
+  main.cpp
+  ObjectManager.cpp
+  Player.cpp
+  SceneBase.cpp
+  SceneClear.cpp
+C:\Users\82104\source\repos\ShootingGameOOP\SceneClear.cpp(22,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SceneGame.cpp
+  SceneManager.cpp
+  SceneOver.cpp
+C:\Users\82104\source\repos\ShootingGameOOP\SceneOver.cpp(24,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SceneTitle.cpp
+C:\Users\82104\source\repos\ShootingGameOOP\SceneTitle.cpp(117,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82104\source\repos\ShootingGameOOP\SceneTitle.cpp(124,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ScreenBuffer.cpp
+  코드를 생성하고 있습니다.
+  75 of 89 functions (84.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ShootingGameOOP.vcxproj -> C:\Users\82104\source\repos\ShootingGameOOP\Release\ShootingGameOOP.exe
