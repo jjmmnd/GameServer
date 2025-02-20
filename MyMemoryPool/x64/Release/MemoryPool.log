@@ -1,0 +1,8 @@
+﻿  Profile.cpp
+  SerializeBuffer.cpp
+  main.cpp
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  코드를 생성하고 있습니다.
+  All 55 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  MemoryPool.vcxproj -> C:\Users\82104\source\repos\MemoryPool\x64\Release\MemoryPool.exe
