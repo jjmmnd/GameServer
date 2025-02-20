@@ -1,0 +1,10 @@
+﻿  RingBuffer.cpp
+C:\Users\82104\source\repos\RingBuffer\RingBuffer.cpp(69,4): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\82104\source\repos\RingBuffer\RingBuffer.cpp(92,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\82104\source\repos\RingBuffer\RingBuffer.cpp(133,4): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\82104\source\repos\RingBuffer\RingBuffer.cpp(139,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\82104\source\repos\RingBuffer\RingBuffer.cpp(207,4): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\82104\source\repos\RingBuffer\RingBuffer.cpp(213,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  Test.cpp
+  코드를 생성하고 있습니다...
+  RingBuffer.vcxproj -> C:\Users\82104\source\repos\RingBuffer\Debug\RingBuffer.exe

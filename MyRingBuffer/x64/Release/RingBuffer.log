@@ -1,0 +1,9 @@
+﻿  RingBuffer.cpp
+  main.cpp
+C:\Users\82104\source\repos\RingBuffer\main.cpp(199,7): warning C4101: 'checkBuffer' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  10 of 18 functions (55.6%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  RingBuffer.vcxproj -> C:\Users\82104\source\repos\RingBuffer\x64\Release\RingBuffer.exe
