@@ -1,5 +1,3 @@
 **24.01 ~ 24.10**
 
-My gameserver BackUp storage.
-
-Library, Projects, Practice ...... etc.
+Game Server 관련 라이브러리 및 실습 코드 백업
